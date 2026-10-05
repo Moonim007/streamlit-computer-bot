@@ -1,0 +1,62 @@
+=== ข้อมูลสเปก การ์ดจอ (Graphics Processing Unit / GPU) และพาวเวอร์ซัพพลายที่แนะนำ ===
+
+1. NVIDIA GeForce RTX 4060 8GB GDDR6
+- สถาปัตยกรรม: Ada Lovelace (4nm Process)
+- CUDA Cores: 3,072 Cores
+- Memory Bus Width: 128-bit
+- Memory Bandwidth: 272 GB/s
+- ราคาเฉลี่ย: 10,500 - 12,900 บาท (ขึ้นอยู่กับแบรนด์ เช่น MSI, Gigabyte, ASUS, Zotac)
+- อัตราการใช้พลังงาน (TDP): 115 วัตต์
+- พาวเวอร์ซัพพลายที่แนะนำ (Recommended PSU): 550W - 600W 80 Plus Bronze ขึ้นไป
+- หัวต่อไฟเลี้ยง: 1x 8-pin PCIe
+- เทคโนโลยีที่รองรับ: DLSS 3 (Frame Generation), Ray Tracing Gen 3, AV1 Encoder
+- ประสิทธิภาพการเล่นเกม: เหมาะกับการเล่นเกมความละเอียด 1080p (Full HD) ปรับตั้งค่าภาพ Ultra ได้ทุกเกม เฟรมเรตเกิน 60-100 FPS ขึ้นไป
+
+2. NVIDIA GeForce RTX 4070 Super 12GB GDDR6X
+- สถาปัตยกรรม: Ada Lovelace
+- CUDA Cores: 7,168 Cores
+- Memory Bus Width: 192-bit
+- Memory Bandwidth: 504 GB/s
+- ราคาเฉลี่ย: 23,500 - 26,900 บาท
+- อัตราการใช้พลังงาน (TDP): 220 วัตต์
+- พาวเวอร์ซัพพลายที่แนะนำ (Recommended PSU): 650W - 750W 80 Plus Gold
+- หัวต่อไฟเลี้ยง: 1x 16-pin (12VHPWR) หรือใช้สายแปลง 2x 8-pin
+- เทคโนโลยีที่รองรับ: DLSS 3.5, Ray Tracing, Dual AV1 Encoders
+- ประสิทธิภาพการเล่นเกม: ออกแบบมาเพื่อการเล่นเกมระดับ 2K (1440p) แบบปรับสุดทุกฟังก์ชัน สามารถลุยเกมระดับ 4K ร่วมกับการเปิด DLSS ได้สบาย
+
+3. NVIDIA GeForce RTX 4080 Super 16GB GDDR6X
+- สถาปัตยกรรม: Ada Lovelace
+- CUDA Cores: 10,240 Cores
+- Memory Bus Width: 256-bit
+- ราคาเฉลี่ย: 38,900 - 44,500 บาท
+- อัตราการใช้พลังงาน (TDP): 320 วัตต์
+- พาวเวอร์ซัพพลายที่แนะนำ (Recommended PSU): 750W - 850W 80 Plus Gold ขึ้นไป
+- หัวต่อไฟเลี้ยง: 1x 16-pin (12VHPWR)
+- ประสิทธิภาพ: เล่นเกม 4K Ultra Settings พร้อม Ray Tracing ได้อย่างลื่นไหล และรองรับงานประมวลผล AI/LLM, Stable Diffusion, เรนเดอร์ 3D หนักๆ
+
+4. AMD Radeon RX 7600 8GB GDDR6
+- สถาปัตยกรรม: RDNA 3 (6nm + 5nm Chiplet)
+- Stream Processors: 2,048
+- Memory Bus Width: 128-bit
+- ราคาเฉลี่ย: 9,200 - 10,500 บาท
+- อัตราการใช้พลังงาน (TDP): 165 วัตต์
+- พาวเวอร์ซัพพลายที่แนะนำ (Recommended PSU): 550W - 600W 80 Plus Bronze
+- หัวต่อไฟเลี้ยง: 1x 8-pin PCIe
+- เทคโนโลยีที่รองรับ: AMD FSR 3 (FidelityFX Super Resolution), HYPR-RX, AV1 Hardware Encode
+- ประสิทธิภาพการเล่นเกม: คู่แข่งโดยตรงของ RTX 4060 ให้ความคุ้มค่าสูงในการเล่นเกม 1080p ปรับ High/Ultra 
+
+5. AMD Radeon RX 7800 XT 16GB GDDR6
+- สถาปัตยกรรม: RDNA 3
+- Stream Processors: 3,840
+- Memory Bus Width: 256-bit
+- ราคาเฉลี่ย: 18,500 - 20,900 บาท
+- อัตราการใช้พลังงาน (TDP): 263 วัตต์
+- พาวเวอร์ซัพพลายที่แนะนำ (Recommended PSU): 700W - 750W 80 Plus Gold
+- หัวต่อไฟเลี้ยง: 2x 8-pin PCIe
+- ประสิทธิภาพ: เป็นการ์ดจอคุ้มค่าที่สุดสำหรับการเล่นเกมความละเอียด 2K VRAM 16GB ช่วยให้เล่นเกมกินสเปกในอนาคตได้ยาวนานโดยแรมการ์ดจอไม่เต็ม
+
+=== คำแนะนำการเลือก Power Supply (PSU) ให้เหมาะกับการ์ดจอ ===
+- RTX 3050 / RTX 4060 / RX 6600 / RX 7600 -> PSU 500W - 600W
+- RTX 4060 Ti / RTX 4070 / RX 7700 XT -> PSU 650W - 700W
+- RTX 4070 Super / RTX 4070 Ti Super / RX 7800 XT -> PSU 750W 80 Plus Gold
+- RTX 4080 Super / RTX 4090 / RX 7900 XTX -> PSU 850W - 1000W 80 Plus Gold/Platinum (แนะนำแบบ ATX 3.0 มีสาย 12VHPWR ในตัว)

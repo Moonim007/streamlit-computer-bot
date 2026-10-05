@@ -1,0 +1,99 @@
+=== หมวดหมู่: โน้ตบุ๊กทำงาน และ Ultrabook ===
+
+1. ASUS Zenbook 14 OLED (UX3405)
+- ประเภท: Thin & Light Ultrabook
+- ราคา: 39,990 บาท
+- หน่วยประมวลผล (CPU): Intel Core Ultra 7 155H (16 Cores, 22 Threads, up to 4.8 GHz)
+- หน่วยความจำ (RAM): 16GB LPDDR5X 7467MHz (Onboard Upgrade ไม่ได้)
+- พื้นที่จัดเก็บข้อมูล (Storage): 1TB PCIe 4.0 NVMe M.2 SSD
+- กราฟิก (GPU): Intel Arc Graphics
+- หน้าจอ: 14.0 นิ้ว 3K (2880 x 1800) OLED, 120Hz, 100% DCI-P3, ความสว่างสูงสุด 600 nits
+- น้ำหนัก: 1.2 กิโลกรัม
+- แบตเตอรี่: 75Whr รองรับชาร์จไว Type-C 65W
+- การรับประกัน: 3 ปี On-site Service + 1 ปี Perfect Warranty (ประกันอุบัติเหตุ)
+- เหมาะสำหรับ: งานเอกสาร, ตัดต่อวิดีโอระดับเริ่มต้นถึงปานกลาง, กราฟิก 2D, ความบันเทิงระดับ 4K, ผู้ที่ต้องเดินทางบ่อย
+
+2. Lenovo Yoga Slim 7i Aura Edition 15
+- ประเภท: Premium Productivity Laptop
+- ราคา: 45,990 บาท
+- หน่วยประมวลผล (CPU): Intel Core Ultra 7 258V (8 Cores, 8 Threads, up to 4.8 GHz) พร้อม NPU AI 47 TOPS
+- หน่วยความจำ (RAM): 32GB LPDDR5X 8533MHz (Onboard)
+- พื้นที่จัดเก็บข้อมูล (Storage): 1TB PCIe 4.0 M.2 SSD
+- กราฟิก (GPU): Intel Arc Graphics 140V
+- หน้าจอ: 15.3 นิ้ว 2.8K (2880 x 1800) IPS, 120Hz, PureSight Touchscreen
+- น้ำหนัก: 1.53 กิโลกรัม
+- การรับประกัน: 3 ปี Premium Care + 1 ปี Accidental Damage Protection
+- เหมาะสำหรับ: สายทำงานสาย AI, Creator, ตัดต่อวิดีโอ 4K, ทำงานมัลติทาสกิ้งหนักๆ
+
+3. HP Pavilion Plus 14
+- ประเภท: Everyday / Student Laptop
+- ราคา: 27,990 บาท
+- หน่วยประมวลผล (CPU): AMD Ryzen 5 7540U (6 Cores, 12 Threads, up to 4.9 GHz)
+- หน่วยความจำ (RAM): 16GB LPDDR5x (Onboard)
+- พื้นที่จัดเก็บข้อมูล (Storage): 512GB PCIe 4.0 NVMe SSD
+- กราฟิก (GPU): AMD Radeon 740M
+- หน้าจอ: 14.0 นิ้ว 2.2K (2240 x 1400) IPS, 100% sRGB
+- น้ำหนัก: 1.38 กิโลกรัม
+- การรับประกัน: 2 ปี On-site Smart Friend
+- เหมาะสำหรับ: นักเรียน นักศึกษา, งานออฟฟิศทั่วไป, ดูหนัง ฟังเพลง, พิมพ์งาน
+
+4. Dell XPS 13 (9340)
+- ประเภท: Ultra-Premium Ultrabook
+- ราคา: 69,990 บาท
+- หน่วยประมวลผล (CPU): Intel Core Ultra 7 155H
+- หน่วยความจำ (RAM): 32GB LPDDR5X
+- พื้นที่จัดเก็บข้อมูล (Storage): 1TB PCIe 4.0 SSD
+- กราฟิก (GPU): Intel Arc Graphics
+- หน้าจอ: 13.4 นิ้ว QHD+ (2560 x 1600) Touchscreen, 500 nits, 120Hz
+- น้ำหนัก: 1.19 กิโลกรัม
+- การรับประกัน: 3 ปี ProSupport On-site
+- เหมาะสำหรับ: ผู้บริหาร, นักธุรกิจที่ต้องการความหรูหรา งานประมวลผลความเร็วสูง และความพกพาสูงสุด
+
+
+=== หมวดหมู่: โน้ตบุ๊กเล่นเกม (Gaming Laptop) ===
+
+5. Acer Nitro V 16 (ANV16-41)
+- ประเภท: Entry-Level Gaming Laptop
+- ราคา: 29,990 บาท
+- หน่วยประมวลผล (CPU): AMD Ryzen 5 8645HS (6 Cores, 12 Threads)
+- หน่วยความจำ (RAM): 16GB DDR5 5600MHz (อัปเกรดได้สูงสุด 32GB)
+- พื้นที่จัดเก็บข้อมูล (Storage): 512GB PCIe 4.0 SSD (มีช่องใส่ SSD เพิ่มอีก 1 ช่อง)
+- กราฟิก (GPU): NVIDIA GeForce RTX 4050 6GB GDDR6 (75W TGP)
+- หน้าจอ: 16.0 นิ้ว WUXGA (1920 x 1200) IPS, 165Hz, 100% sRGB
+- น้ำหนัก: 2.5 กิโลกรัม
+- การรับประกัน: 3 ปี ฟรีค่าแรงและอะไหล่ (1 ปี On-site)
+- เหมาะสำหรับ: เกมเมอร์งบประหยัด เล่นเกม eSports (CS2, Valorant, Dota2) ปรับสูงได้สบาย และเล่นเกม AAA ปรับ Medium-High
+
+6. ASUS ROG Strix G16 (G614JVR)
+- ประเภท: High-End Gaming Laptop
+- ราคา: 59,990 บาท
+- หน่วยประมวลผล (CPU): Intel Core i7-14650HX (16 Cores, 24 Threads)
+- หน่วยความจำ (RAM): 16GB DDR5 5600MHz (สล็อตคู่ รองรับสูงสุด 64GB)
+- พื้นที่จัดเก็บข้อมูล (Storage): 1TB PCIe 4.0 NVMe M.2 SSD
+- กราฟิก (GPU): NVIDIA GeForce RTX 4060 8GB GDDR6 (140W Max TGP)
+- หน้าจอ: 16.0 นิ้ว QHD+ (2560 x 1600) ROG Nebula Display, 240Hz, 3ms, 100% DCI-P3
+- ระบบระบายความร้อน: Tri-Fan Technology + Liquid Metal Conductonaut Extreme
+- การรับประกัน: 3 ปี On-site + 1 ปี Perfect Warranty
+- เหมาะสำหรับ: การเล่นเกม AAA ปรับสุด, สตรีมเกม, งานเรนเดอร์ 3D, โมเดลลิ่ง และงานสถาปัตยกรรม
+
+7. MSI Katana 15 B13VGK
+- ประเภท: Mid-Range Gaming Laptop
+- ราคา: 42,990 บาท
+- หน่วยประมวลผล (CPU): Intel Core i7-13620H (10 Cores, 16 Threads)
+- หน่วยความจำ (RAM): 16GB DDR5 5200MHz
+- พื้นที่จัดเก็บข้อมูล (Storage): 1TB PCIe 4.0 SSD
+- กราฟิก (GPU): NVIDIA GeForce RTX 4070 8GB GDDR6 (105W TGP)
+- หน้าจอ: 15.6 นิ้ว FHD (1920 x 1080), 144Hz IPS-Level
+- การรับประกัน: 2 ปี รับส่งเครื่องฟรีถึงบ้าน
+- เหมาะสำหรับ: ผู้ที่ต้องการการ์ดจอแรงในราคาคุ้มค่า เล่นเกมกราฟิกโหดๆ และงานปูพื้นฐาน AI
+
+8. Lenovo Legion Pro 5i (16, Gen 9)
+- ประเภท: Premium Performance Gaming Laptop
+- ราคา: 65,990 บาท
+- หน่วยประมวลผล (CPU): Intel Core i7-14700HX (20 Cores, 28 Threads)
+- หน่วยความจำ (RAM): 32GB DDR5 5600MHz
+- พื้นที่จัดเก็บข้อมูล (Storage): 1TB PCIe 4.0 SSD
+- กราฟิก (GPU): NVIDIA GeForce RTX 4070 8GB GDDR6 (140W TGP)
+- หน้าจอ: 16.0 นิ้ว WQXGA (2560 x 1600) IPS, 240Hz, DisplayHDR 400, 500 nits
+- การรับประกัน: 3 ปี Ultimate Support On-site
+- เหมาะสำหรับ: เกมเมอร์ระดับโปร, สายตัดต่อวิดีโอโปรดักชัน 4K-8K, งานสร้างแบบจำลอง 3D สเกลใหญ่

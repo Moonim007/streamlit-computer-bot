@@ -1,0 +1,58 @@
+=== จอภาพ (Gaming Monitor & Office Monitor) และอุปกรณ์เสริม ===
+
+--- หมวดหมู่ จอคอมพิวเตอร์ (Monitors) ---
+1. AOC 24G2E / 24G4 (23.8 นิ้ว Gaming Monitor)
+- พาเนล: Fast IPS
+- ความละเอียด: Full HD (1920 x 1080)
+- Refresh Rate: 180Hz | Response Time: 0.5ms (MPRT)
+- การรองรับสี: 126% sRGB, Adaptive-Sync
+- ราคา: 3,990 บาท
+- ประกัน: 3 ปี On-site เปลี่ยนตัวใหม่ถึงบ้าน (ตามเงื่อนไขจุด Bright/Dead Pixel 3 จุดขึ้นไป)
+- เหมาะสำหรับ: สายเกม FPS (Valorant, CS2, Overwatch) งบน้อย คุ้มค่าที่สุด
+
+2. LG UltraGear 27GP850-B (27 นิ้ว 2K Gaming Monitor)
+- พาเนล: Nano IPS
+- ความละเอียด: QHD (2560 x 1440)
+- Refresh Rate: 165Hz (Overclock ได้ถึง 180Hz) | Response Time: 1ms (GtG)
+- คุณสมบัติ: HDR400, NVIDIA G-Sync Compatible, AMD FreeSync Premium
+- ราคา: 11,900 บาท
+- ประกัน: 3 ปี
+- เหมาะสำหรับ: เกมเมอร์ที่ต้องการภาพสวย คมชัด สีสันสมจริง ระดับ 2K
+
+3. Dell UltraSharp U2724D (27 นิ้ว Professional Monitor)
+- พาเนล: IPS Black (ค่า Contrast Ratio สูงถึง 2000:1 ดำสนิทกว่า IPS ปกติ)
+- ความละเอียด: QHD (2560 x 1440), Refresh Rate 120Hz
+- ขอบเขตสี: 100% sRGB, 98% Display P3 (Calibrated Delta E < 2 จากโรงงาน)
+- ราคา: 14,500 บาท
+- ประกัน: 3 ปี Advanced Exchange Service (เสียเปลี่ยนตัวใหม่)
+- เหมาะสำหรับ: ช่างภาพ, ช่างตัดต่อ, งานกราฟิกดีไซน์เนอร์ที่ต้องการสีแม่นยำสูงที่สุด
+
+
+--- หมวดหมู่ เกมมิ่งเกียร์และอุปกรณ์เสริม (Peripherals) ---
+1. คีย์บอร์ด Mechanical Keychron V1 Max (Wireless)
+- สวิตช์: Gateron Jupiter Red / Brown / Banana (Hot-swappable ถอดเปลี่ยนสวิตช์ได้)
+- การเชื่อมต่อ: 2.4GHz Wireless, Bluetooth 5.1, USB-C Wired
+- เลย์เอาต์: 75% Compact
+- ไฟ RGB: South-facing RGB
+- ราคา: 3,890 บาท
+- ประกัน: 1 ปี
+- เหมาะสำหรับ: คนทำงานและเกมเมอร์ที่ต้องการสัมผัสการพิมพ์ที่ดี นุ่มนวล และพกพาสะดวก
+
+2. เมาส์ไร้สาย Logitech G Pro X Superlight 2 Wireless
+- เซนเซอร์: HERO 2 Sensor (ความละเอียดสูงสุด 32,000 DPI)
+- น้ำหนัก: เบาพิเศษเพียง 60 กรัม
+- สวิตช์: LIGHTFORCE Hybrid Optical-Mechanical Switches
+- โพลลิ่งเรต: 4,000Hz (4K Polling Rate)
+- แบตเตอรี่: ใช้งานได้ยาวนานสูงสุด 95 ชั่วโมงต่อการชาร์จ 1 ครั้ง
+- ราคา: 5,290 บาท
+- ประกัน: 2 ปี
+- เหมาะสำหรับ: นักกีฬา eSports และนักเล่นเกม FPS ที่ต้องการเมาส์น้ำหนักเบา หวังผลเรื่องความแม่นยำสูง
+
+3. หูฟัง HyperX Cloud III Wireless
+- ไดรเวอร์: 53mm Angled Drivers
+- การเชื่อมต่อ: 2.4GHz Wireless (ใช้งานได้ไกล 20 เมตร)
+- ระยะเวลาแบตเตอรี่: สูงสุด 120 ชั่วโมงต่อการชาร์จ 1 ครั้ง
+- ระบบเสียง: DTS Headphone:X Spatial Audio
+- ราคา: 4,990 บาท
+- ประกัน: 2 ปี
+- เหมาะสำหรับ: เล่นเกมต่อเนื่องยาวนาน ฟองน้ำเมมโมรี่โฟมนุ่ม ไม่เจ็บหู ไมโครโฟนตัดเสียงรบกวนได้ดีเยี่ยม
