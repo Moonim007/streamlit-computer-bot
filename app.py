@@ -234,11 +234,11 @@ if "active_menu" not in st.session_state:
 
 menu_items = [
     ("🤖 ผู้ช่วยแชตบอต RAG (ถาม-ตอบ)", "rag_chat"),
-    ("💻 โน้ตบุ๊ก (laptops.txt)", "โน้ตบุ๊ก (Laptops)"),
-    ("🎮 การ์ดจอ (gpu_specs.txt)", "การ์ดจอ (GPU)"),
-    ("⚙️ ซีพียู และ ฮาร์ดแวร์ (cpu_specs.txt)", "ซีพียู & ฮาร์ดแวร์ (CPU/RAM/SSD)"),
-    ("🖥️ จอภาพ และ เกมมิ่งเกียร์ (monitors.txt)", "จอภาพ & เกมมิ่งเกียร์ (Monitors & Gear)"),
-    ("🛡️ นโยบายการรับประกัน (warranties.txt)", "warranties")
+    ("💻 โน้ตบุ๊ก ", "โน้ตบุ๊ก (Laptops)"),
+    ("🎮 การ์ดจอ ", "การ์ดจอ (GPU)"),
+    ("⚙️ ซีพียู และ ฮาร์ดแวร์ ", "ซีพียู & ฮาร์ดแวร์ (CPU/RAM/SSD)"),
+    ("🖥️ จอภาพ และ เกมมิ่งเกียร์ ", "จอภาพ & เกมมิ่งเกียร์ (Monitors & Gear)"),
+    ("🛡️ นโยบายการรับประกัน ", "warranties")
 ]
 
 st.sidebar.markdown("<h3 style='margin-bottom: 12px; color: #111827;'>🛒 หมวดหมู่สินค้า</h3>", unsafe_allow_html=True)
